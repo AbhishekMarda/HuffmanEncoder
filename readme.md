@@ -17,4 +17,4 @@ Note: Try compressing for larger file sizes. For extrememly small file sizes, th
 
 I hope you enjoy reading my code and playing around with the encoder :)
 
-To decode your compressed file, use [my Huffman decoder implementation](https://github.com/AbhishekMarda/HuffmanDecoder/tree/master)
+To decode your compressed file, use [my Huffman decoder implementation](https://github.com/AbhishekMarda/HuffmanDecoder/tree/master).
