@@ -7,7 +7,7 @@ To run from terminal, do the following steps:
 
 1. Go to the target folder of your project with the executable file.
 
-2. Create an any `.txt` file. For example, `yourinputfilename.txt`!
+2. Create any `.txt` file. For example, `yourinputfilename.txt`!
 
 3. Using terminal in the folder that contains the target file, run `./huffmanencoder yourinputfilename.txt`
 
