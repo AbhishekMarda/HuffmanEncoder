@@ -13,6 +13,6 @@ To run from terminal, do the following steps:
 
 4. The code will create an `output.dat` file which will be the compressed version for the file.
 
-Note: Try compressing for larger file sizes. For extrememly small file sizes, it will not work! 
+Note: Try compressing for larger file sizes. For extrememly small file sizes, the compressed file will be larger! 
 
 I hope you enjoy reading my code and playing around with the encoder :)
