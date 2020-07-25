@@ -16,3 +16,5 @@ To run from terminal, do the following steps:
 Note: Try compressing for larger file sizes. For extrememly small file sizes, the compressed file will be larger! 
 
 I hope you enjoy reading my code and playing around with the encoder :)
+
+To decode your compressed file, use [my Huffman decoder implementation](https://github.com/AbhishekMarda/HuffmanDecoder/tree/master)
