@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8FC522FA249455F80015ACBC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8FC522F9249455F80015ACBC /* main.cpp */; };
+		8FC522FA249455F80015ACBC /* encoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8FC522F9249455F80015ACBC /* encoder.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		8FC522F6249455F80015ACBC /* huffmanencoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = huffmanencoder; sourceTree = BUILT_PRODUCTS_DIR; };
-		8FC522F9249455F80015ACBC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8FC522F9249455F80015ACBC /* encoder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = encoder.cpp; sourceTree = "<group>"; };
+		8FC523012494606F0015ACBC /* characternode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = characternode.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,8 @@
 		8FC522F8249455F80015ACBC /* huffmanencoder */ = {
 			isa = PBXGroup;
 			children = (
-				8FC522F9249455F80015ACBC /* main.cpp */,
+				8FC522F9249455F80015ACBC /* encoder.cpp */,
+				8FC523012494606F0015ACBC /* characternode.h */,
 			);
 			path = huffmanencoder;
 			sourceTree = "<group>";
@@ -119,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FC522FA249455F80015ACBC /* main.cpp in Sources */,
+				8FC522FA249455F80015ACBC /* encoder.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
